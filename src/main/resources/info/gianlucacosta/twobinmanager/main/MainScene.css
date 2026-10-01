@@ -1,102 +1,68 @@
-/*^
-  ===========================================================================
-  TwoBinManager
-  ===========================================================================
-  Copyright (C) 2016-2017 Gianluca Costa
-  ===========================================================================
-  This program is free software: you can redistribute it and/or modify
-  it under the terms of the GNU General Public License as
-  published by the Free Software Foundation, either version 3 of the
-  License, or (at your option) any later version.
-
-  This program is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  GNU General Public License for more details.
-
-  You should have received a copy of the GNU General Public
-  License along with this program.  If not, see
-  <http://www.gnu.org/licenses/gpl-3.0.html>.
-  ===========================================================================
-*/
-
 #mainPane {
-    -fx-background-color: white;
+  -fx-background-color: white;
 }
 
 .paneHeader {
-    -fx-font-size: 18;
-    -fx-font-weight: bold;
+  -fx-font-size: 18;
+  -fx-font-weight: bold;
 }
 
 #titlePane {
-    -fx-background-color: #ffa7a7;
+  -fx-background-color: #ffa7a7;
 }
-
 
 #titleLabel {
-    -fx-font-weight: bold;
-    -fx-font-size: 40;
-    -fx-text-fill: #ae4f4f;
+  -fx-font-weight: bold;
+  -fx-font-size: 40;
+  -fx-text-fill: #ae4f4f;
 }
-
 
 #problemsPane {
-   -fx-background-color: #ddffda;
+  -fx-background-color: #ddffda;
 }
-
 
 #problemsHeader {
-   -fx-text-fill: #61b88a;
+  -fx-text-fill: #61b88a;
 }
 
-
 #solutionsPane {
-    -fx-background-color: #e9fffe;
+  -fx-background-color: #e9fffe;
 }
 
 #solutionsHeader {
-    -fx-text-fill: #29a1cd;
+  -fx-text-fill: #29a1cd;
 }
-
 
 #importPane {
-    -fx-background-color: #feffa9;
+  -fx-background-color: #feffa9;
 }
 
-
 #importHeader {
-    -fx-text-fill: #cfb400;
+  -fx-text-fill: #cfb400;
 }
 
 #importLabel {
-    -fx-background-color: #ffffd9;
-    -fx-font-style: italic;
-    -fx-text-fill: darkgray;
+  -fx-background-color: #ffffd9;
+  -fx-font-style: italic;
+  -fx-text-fill: darkgray;
 }
 
-
-
 #serverPane {
-    -fx-background-color: #ffe8b1;
+  -fx-background-color: #ffe8b1;
 }
 
 #serverHeader {
-    -fx-text-fill: #cf8400;
+  -fx-text-fill: #cf8400;
 }
 
-
-
 #analyticsPane {
-    -fx-background-color: #ffdafb;
+  -fx-background-color: #ffdafb;
 }
 
 #analyticsHeader {
-    -fx-text-fill: #d78ed1;
+  -fx-text-fill: #d78ed1;
 }
 
-
-
 #aboutPane {
-    -fx-background-color: #cb9ccf;
+  -fx-background-color: #cb9ccf;
 }
